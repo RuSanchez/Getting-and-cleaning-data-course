@@ -1,3 +1,6 @@
+#Packages
+install.packages("reshape2")
+install.packages("dplyr")
 #Libraries necessaries
 library(data.table)
 library(dplyr)
